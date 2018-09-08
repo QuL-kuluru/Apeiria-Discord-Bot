@@ -17,6 +17,11 @@
 
 `git clone https://github.com/QuL-kuluru/apeiriadiscordbot.git`
 
+そして、手動で再生するためのコーデックを導入します。
+
+下記フォルダをインストールしたファイルに追加してください。
+(https://drive.google.com/open?id=1uoXwmgqjWZIND17qFeInAfTy652TCNIU)
+
 これでインストールが完了します。
 
 ### コマンド
