@@ -1,6 +1,6 @@
 > :loudspeaker: While discord.py is undergoing a rewrite, this bot will not receive any major updates. Please do not bug us asking if the project is dead. It is likely that this bot make break at some point due to updates to discord.py. When the discord.py rewrite is complete, this bot will likely be rewritten too.
 
-# ApeiriaBot: The music bot for Discord.
+# ApeiriaBot: Discord用音楽bot
 
 このボットは[Python] を使用して作られました。(https://www.python.org "Python homepage"). リクエストした曲、事前に作成したプレイリストなどを再生できます。
 ### インストール手順
