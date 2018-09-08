@@ -34,3 +34,7 @@
 
 ### 起動方法
 任意の場所に解凍し、セッティングが終わったら、`runbot.bat` (または mac、Linux上では `run.sh` )を起動してください。
+
+### Google Drive版
+gitでのインストールがうまくいかない場合はこちらもお試しください。
+(https://drive.google.com/open?id=15CelMwtiovdQMzFXCZWUTWqDK8ifk8_N)
