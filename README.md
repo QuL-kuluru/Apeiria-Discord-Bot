@@ -5,7 +5,19 @@
 このボットは[Python] を使用して作られました。(https://www.python.org "Python homepage"). リクエストした曲、事前に作成したプレイリストなどを再生できます。
 ### インストール手順
 
-右上、Clone or Download からZIP形式でダウンロード。任意の場所で解凍し、レポジトリ内の指定されたセッティング箇所の設定をしてください。（コンフィギュレーション欄に詳細を掲載しています。）
+別途必要なソフト
+
+1.Python 3.5.3 (https://www.python.org/downloads/release/python-353/)
+2.git (https://git-scm.com/)
+
+2つのソフトを導入し、インストールしてください。
+
+インストールが終わったら、botを配置したい場所で右クリック、"Git Bash Here" を選択し、
+下のコマンドを入力してください。
+
+`git clone https://github.com/QuL-kuluru/apeiriadiscordbot.git`
+
+これでインストールが完了します。
 
 ### コマンド
 
