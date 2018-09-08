@@ -1154,7 +1154,7 @@ class MusicBot(discord.Client):
 
             helpmsg += ", ".join(commands)
             helpmsg += "```\n<http://bit.ly/2MbQlmh>"
-            helpmsg += "!help (コマンド) で、そのコマンドの詳細が閲覧できます。".format(self.config.command_prefix)
+            helpmsg += " !help (コマンド) で、そのコマンドの詳細が閲覧できます。".format(self.config.command_prefix)
 
             return Response(helpmsg, reply=True, delete_after=60)
 
