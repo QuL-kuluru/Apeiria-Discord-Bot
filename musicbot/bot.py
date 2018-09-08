@@ -1153,8 +1153,8 @@ class MusicBot(discord.Client):
                     commands.append("{}{}".format(self.config.command_prefix, command_name))
 
             helpmsg += ", ".join(commands)
-            helpmsg += "```\n<https://github.com/SexualRhinoceros/MusicBot/wiki/Commands-list>"
-            helpmsg += "!help (コマンド) で、そのコマンドの詳細が閲覧できる事を確認しました。".format(self.config.command_prefix)
+            helpmsg += "```\n<http://bit.ly/2MbQlmh>"
+            helpmsg += "!help (コマンド) で、そのコマンドの詳細が閲覧できます。".format(self.config.command_prefix)
 
             return Response(helpmsg, reply=True, delete_after=60)
 
