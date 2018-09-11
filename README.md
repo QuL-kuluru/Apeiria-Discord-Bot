@@ -35,6 +35,11 @@
 ### 起動方法
 任意の場所に解凍し、セッティングが終わったら、`runbot.bat` (または mac、Linux上では `run.sh` )を起動してください。
 
+### プレイリストが読み込めなくなった時
+ApeiriaBotにはyoutube、SoundCloud用に音声をダウンロードするプログラムを導入しています。
+随時プログラムはアップデートをするため、バージョンが古くなるとエラーを起こす場合があります。
+不調だと感じた場合は `update_dependencies.bat` を実行すると改善される場合がありますので、お試しください。
+
 ### Google Drive版
 gitでのインストールがうまくいかない場合はこちらもお試しください。
 (https://drive.google.com/open?id=15CelMwtiovdQMzFXCZWUTWqDK8ifk8_N)
