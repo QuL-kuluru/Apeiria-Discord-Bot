@@ -20,7 +20,7 @@
 そして、手動で再生するためのコーデックを導入します。
 
 下記フォルダをインストールしたファイルに追加してください。
-(https://drive.google.com/open?id=1uoXwmgqjWZIND17qFeInAfTy652TCNIU)
+(https://drive.google.com/open?id=1gVeb0f1d3P7QZqCPpS1wlj5OsP9A4vlu)
 
 これでインストールが完了します。
 
